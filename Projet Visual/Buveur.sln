@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buveur", "Buveur\Buveur.csproj", "{3131ACAE-D6C2-4D2E-86E6-A5E5FF393F0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05191959-99EC-436B-AE83-815D0652C1BE}"
+	ProjectSection(SolutionItems) = preProject
+		Buveur\CBuveur.cs = Buveur\CBuveur.cs
+		Buveur\cocktail17.png = Buveur\cocktail17.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3131ACAE-D6C2-4D2E-86E6-A5E5FF393F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3131ACAE-D6C2-4D2E-86E6-A5E5FF393F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3131ACAE-D6C2-4D2E-86E6-A5E5FF393F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3131ACAE-D6C2-4D2E-86E6-A5E5FF393F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

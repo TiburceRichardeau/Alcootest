@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Buveur.exe" version="1.0.0.16" publicKeyToken="0a1b1ae401c49638" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="cocktail17.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Buveur" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Buveur.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d'utilisateur
+          Si vous souhaitez modifier le niveau du contrôle de compte d'utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l'une des propositions suivantes :
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous souhaitez utiliser la virtualisation de fichiers et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Buveur.exe" size="1098656">
+      <assemblyIdentity name="Buveur" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wuf0evZTNEhejEPCwcjqKLb9tj//MIxqpQh7DUJ7BDY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignColors.dll" size="228352">
+      <assemblyIdentity name="MaterialDesignColors" version="1.0.0.14576" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gia3dKTk7GDLhMHk9Z10TCiBlNhq4WH4xBg+c+/mS40=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignThemes.Wpf.dll" size="3258368">
+      <assemblyIdentity name="MaterialDesignThemes.Wpf" version="1.2.0.339" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uQFiAlwVHG9ZK+l7JgBxWwpMBdcS8eC8uzfw4HiN2UM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="457728">
+      <assemblyIdentity name="MySql.Data" version="6.9.8.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vZOt5pn+YIjqzABheL5YRnsrxRe1pFgyD4tfa0entVA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Buveur.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cocktail17.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kVrP2Vd4gJFoZpr3ogiVX1fJyPGJud5ztVoyzFcX9Ac=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PC-TIB\Tib" issuerKeyHash="3bf6b936198371ebd1f83b3d7a4004d5122a06ef" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Gb8h7NKanLsaa+892p7WXLAd57YhXWSwYHqCCYjpUKk=</DigestValue></Reference></SignedInfo><SignatureValue>MnLR6tguqg+gvEljBlBmNuCtYzPbtSitFVTX33k2ukxZjEfmPldUK7NGRMz1Oq50Dv5C86pGcAz/5nhSHhCORn/WbRZ7GkdXyoiQudbag4cGhZXgIbBecl1iVNXvpBDcHg1yayuWccOe4Asgu6H3FAhu1FNsz3NJ2msB4h3MNgM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uADZLDI9ZTKQUTT5ylqtcNrmNKaRs2HtaT/L7lQab4xfiU1FMwkKb8xxy8Pp8KSF62tRQxZCb7boe3kcexTFyNFzc8Oo66telUjQZVOVWuCO05U7oyBHPXlvKDe0ASXwlI4iEkA3+KPgoI1YwoPqRkCNL/mtZwknJ/jQAcjtM6c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a950e98809827a60b0645d21b6e71db05cd69eda3def6b1abb9c9ad2ec21bf19" Description="" Url=""><as:assemblyIdentity name="Buveur.exe" version="1.0.0.16" publicKeyToken="0a1b1ae401c49638" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC-TIB\Tib</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LF2JkLTcNSvB8Q/ziMGlkQpO7INovhzPgk9txnzNz+Q=</DigestValue></Reference></SignedInfo><SignatureValue>eepu9cNSPS0bBjuMQKZ7Hu0YMikz8DqN6xz3IQcKGSLIz9VJNGq6g87vcmDCKO7JK26ZlSFSR/96jExqIH7APURZ6XcIvjNM+yhlMOSqZwSamii7hW5/i0C2EV/3rVp/PUIGv/agQqcCUk7XoZ5cCNGylEwVezyeOUNxA1R0lF8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uADZLDI9ZTKQUTT5ylqtcNrmNKaRs2HtaT/L7lQab4xfiU1FMwkKb8xxy8Pp8KSF62tRQxZCb7boe3kcexTFyNFzc8Oo66telUjQZVOVWuCO05U7oyBHPXlvKDe0ASXwlI4iEkA3+KPgoI1YwoPqRkCNL/mtZwknJ/jQAcjtM6c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQSUHlrgUvzqJHfHjC506zXDANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAUABDAC0AVABJAEIAXABUAGkAYjAeFw0xNTExMjgwOTExMjlaFw0xNjExMjcxNTExMjlaMB8xHTAbBgNVBAMeFABQAEMALQBUAEkAQgBcAFQAaQBiMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4ANksMj1lMpBRNPnKWq1w2uY0ppGzYe1pP8vuVBpvjF+JTUUzCQpvzHHLw+nwpIXra1FDFkJvtuh7eRx7FMXI0XNzw6jrq16VSNBlU5Va4I7TlTujIEc9eW8oN7QBJfCUjiISQDf4o+CgjVjCg+pGQI0v+a1nCScn+NAByO0zpwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAH1Az4Je6iXUwDuhcdMIubfKD8UZP+vDtgeMQF2BETWGmpBr/Dfa2Q5zAk/xB8mWGJrkCaSgYJmP2bA33EYV6ezO1DvgzSsUSUKEeI3GbQ7vekDHYwErzJJGFCnn6aUcyq3HoGGNqFrxTyjDhnUBmOjE0+feQfL9Coul+dS/BQqg</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

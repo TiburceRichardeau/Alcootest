@@ -1,0 +1,4 @@
+idee d'amélioration
+
+-Bouton supprimer pour supprimer alcool de la liste
+-ajouter quantité par défaut avec les doses de bar dans la base de donnée

@@ -1,0 +1,147 @@
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.exe.config
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\MainWindow.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\App.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\MainWindow.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.g.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.pdb
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.exe.config
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.exe
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.pdb
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\MainWindow.g.cs
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\App.g.cs
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.exe
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\Buveur.pdb
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\MainWindow.baml
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.g.resources
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+D:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur\Buveur\bin\Debug\MySql.Data.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\Buveur.exe.config
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\MaterialDesignColors.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\MainWindow.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\App.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\MainWindow.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.g.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Window1.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Window1.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\bin\Debug\Buveur.application
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.application
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\Buveur.exe.config
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\Buveur.application
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\MaterialDesignColors.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\MainWindow.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Window1.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\App.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\MainWindow.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Window1.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.g.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.application
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2\Projet Visual\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe.config
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.application
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.pdb
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\MaterialDesignColors.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\MainWindow.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Window1.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\App.g.cs
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\MainWindow.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Window1.baml
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.g.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.exe.manifest
+E:\BTS\SN2\thourdin\Visual C Sharp\appliWPF\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.application
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe.config
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.exe
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.pdb
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe.manifest
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.application
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.exe
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\Buveur.pdb
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\MaterialDesignColors.dll
+I:\c#\Buveur v2.1\Projet Visual\Buveur\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\MainWindow.g.cs
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Window1.g.cs
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\App.g.cs
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\MainWindow.baml
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Window1.baml
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.g.resources
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.exe.manifest
+I:\c#\Buveur v2.1\Projet Visual\Buveur\obj\Debug\Buveur.application
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\Buveur.exe.config
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.exe
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.pdb
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\Buveur.exe.manifest
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\Buveur.application
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\Buveur.exe
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\Buveur.pdb
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\MaterialDesignColors.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.csprojResolveAssemblyReference.cache
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\MainWindow.g.cs
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Window1.g.cs
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\App.g.cs
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.cache
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur_MarkupCompile.lref
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\MainWindow.baml
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Window1.baml
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.g.resources
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.Properties.Resources.resources
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.csproj.GenerateResource.Cache
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.exe.manifest
+I:\c#\Buveur v3\Projet Visual\Buveur\obj\Debug\Buveur.application
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\EntityFramework.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\EntityFramework.SqlServer.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\System.Data.SQLite.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\System.Data.SQLite.EF6.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\System.Data.SQLite.Linq.dll
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\EntityFramework.xml
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\EntityFramework.SqlServer.xml
+I:\c#\Buveur v3\Projet Visual\Buveur\bin\Debug\System.Data.SQLite.xml

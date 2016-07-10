@@ -1,0 +1,4 @@
+-Importer "listealcool.sql" dans un serveur mysql wamp avec un utilisateur root sans mot de passe en localhost
+	-Compiler et executer le projet (qui se trouve dans Projet Visual) 
+		ou 
+	-installer l'application avec "setup.exe" qui se trouve dans "installAppliBuveur"
